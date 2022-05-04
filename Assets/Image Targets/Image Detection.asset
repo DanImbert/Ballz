@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Image Detection
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5249366108936781845
+  m_GuidHigh: 11839712391043984528
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4894669680377186740
+      m_GuidHigh: 17083259058871492227
+    m_SerializedTextureGuid:
+      m_GuidLow: 14188717172846998701
+      m_GuidHigh: 12025312114965606970
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: johnlemon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5256575035738402616
+      m_GuidHigh: 11642133258047436734
+    m_SerializedTextureGuid:
+      m_GuidLow: 4941021831782368138
+      m_GuidHigh: 9066810427204656713
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: createwithcode
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4751143101860307677
+      m_GuidHigh: 9335742996834163591
+    m_SerializedTextureGuid:
+      m_GuidLow: 8422234937129888661
+      m_GuidHigh: 12673409517301975947
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: rollaball
+    m_Texture: {fileID: 0}
