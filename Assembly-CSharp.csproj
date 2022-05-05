@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{AC26000C-F10C-AB77-2551-FA52E75A75DE}</ProjectGuid>
+    <ProjectGuid>{856EC16B-3744-B477-C6A2-02059A277234}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\BlowitUp\Exploded.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\Scripts\ThrowExplosive.cs" />
+    <Compile Include="Assets\Scripts\SC_FPSController.cs" />
     <Compile Include="Assets\Scripts\LightTester.cs" />
     <Compile Include="Assets\Scripts\Audio\AudioLoudness.cs" />
     <Compile Include="Assets\Scripts\FaceTrack\ImageRandomizer.cs" />
@@ -77,7 +78,6 @@
     <Compile Include="Assets\Scripts\TapToPlace.cs" />
     <Compile Include="Assets\Scripts\SwitchCamera.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
-    <Compile Include="Assets\Scripts\SC_FPSController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Materials\Shaders\OcclusionShader.shader" />
